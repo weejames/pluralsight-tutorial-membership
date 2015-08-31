@@ -1,0 +1,18 @@
+{
+  "name": "pluralsight-node-application-patterns-membership",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Constable",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "mocha": "^2.3.0",
+    "should": "^7.1.0"
+  }
+}
