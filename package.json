@@ -1,5 +1,5 @@
 {
-  "name": "pluralsight-node-application-patterns-membership",
+  "name": "pluralsight-tutorial-membership",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
